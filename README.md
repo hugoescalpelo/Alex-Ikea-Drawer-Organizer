@@ -9,8 +9,18 @@ I sarted by measuring the drawer, it turns out its dimetions are 52.3cm X 29.2cm
 
 ### Step by Step
 
-Since I'm not designing the whole organizer, I decided to start section by section as it can be seen in the following image.
+Since I'm not designing the whole organizer, I decided to start section by section as it can be seen in the following image:
+
+![](https://github.com/hugoescalpelo/Alex-Ikea-Drawer-Organizer/blob/main/Images/Concepts/Alex%20Drawer%20Organizer%2001.png?raw=true)
+
+Also, as a personal challenge, I'm trying to make a video about the developement, so I'm recording everything. I hope soon the videos are available to see here.
 
 ### Modulartity
 
 I'm plannig to make this drawer organizers available at Thingiverse and printables, so every module will have a name and a function.
+
+## Library
+
+I used the following models:
+
+- [Ikea Alex by FilHouston](https://grabcad.com/library/ikea-alex-2)
